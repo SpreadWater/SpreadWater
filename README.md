@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpreadWater
-- 👀 I’m interested in all
-- 🌱 I’m currently learning Nestjs MongoDB
+- 👀 I’m interested in Computer NetWork
+- 🌱 I’m currently learning Nestjs,MongoDB,设计模式，深度学习
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me 875737147@qq.com
 
